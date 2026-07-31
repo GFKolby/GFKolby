@@ -6,7 +6,7 @@ My strongest work sits at the intersection of backend engineering, product think
 
 ## Featured Projects
 
-### [QlaimPrime](https://github.com/GFKolby/QlaimPrime)
+### [Qlaim](https://github.com/GFKolby/QlaimPrime)
 A beta-tested mobile workforce platform built with React Native, Expo, GraphQL, Prisma, PostgreSQL, AWS S3, and EAS.
 
 This earlier Qlaim architecture demonstrates multi-role workflows, secure authentication, assignment management, proof-photo uploads, API protections, and the process of taking a product beyond localhost and into real tester feedback.
