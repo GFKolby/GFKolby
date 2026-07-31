@@ -11,7 +11,7 @@ A beta-tested mobile workforce platform built with React Native, Expo, GraphQL, 
 
 This earlier Qlaim architecture demonstrates multi-role workflows, secure authentication, assignment management, proof-photo uploads, API protections, and the process of taking a product beyond localhost and into real tester feedback.
 
-### [Goodfolk Backend Starter](https://github.com/GFKolby/BackendStarter)
+### [Backend Starter](https://github.com/GFKolby/BackendStarter)
 A reusable backend foundation built with TypeScript, Node.js, Express, Apollo GraphQL, Prisma, PostgreSQL, Docker, JWT authentication, and role-based access control.
 
 It is designed to remove repetitive setup work and provide a clean starting point for APIs, internal tools, and SaaS products.
