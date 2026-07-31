@@ -14,7 +14,7 @@ I enjoy taking an idea from a rough concept to a working system with clear data 
 
 ## Featured work
 
-### [Goodfolk Backend Starter](https://github.com/GFKolby/BackendStarter)
+### [Backend Starter](https://github.com/GFKolby/BackendStarter)
 A reusable backend foundation built with TypeScript, Node.js, GraphQL, Prisma, PostgreSQL, Docker, JWT authentication, and role-based access control.
 
 ### [StackSift](https://github.com/GFKolby/StackSift)
